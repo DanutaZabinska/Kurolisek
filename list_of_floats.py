@@ -6,7 +6,6 @@ def average(list_f):
     return sum(list_f) / len(list_f)
 
 
-average(list_of_floats)
 average_from_list = average(list_of_floats)
 
 
